@@ -7,7 +7,7 @@ Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação res
 ### Sobre o projeto:
 
 
-  >assunto(s): ```html``` | ```css``` | ```javascript``` | ```desing responsivo```
+  >assunto(s): ```html``` | ```css``` | ```javascript``` | ```design responsivo```
   
   
    - Implementação do projeto com HTML, CSS e JavaScript, onde as letras: a, e, i, o e u são convertidas na ordem por: ai, enter, imes, ober e ufat, podendo ser copiado a área onde o texto for codificado.
