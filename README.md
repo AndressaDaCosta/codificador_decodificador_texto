@@ -42,7 +42,11 @@ Obrigado Oracle e Alura! #challengeonedecodificador2
 
 [📁 Repositório](https://github.com/AndressaDaCosta/codificador_decodificador_texto) |  [🌎 Página](https://andressadacosta.github.io/codificador_decodificador_texto/)
 
+# Desktop:
 <img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20Desktop.png?raw=true">
-<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%201.png?raw=true"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%202.png?raw=true">
 
-<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20%20tablet%201.png?raw=true"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20tablet%202.png?raw=true">
+# Celular
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%201.png?raw=true" width="450"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%202.png?raw=true" width="440">
+
+# Tablet
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20%20tablet%201.png?raw=true" width="440"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20tablet%202.png?raw=true" width="441">
