@@ -41,3 +41,8 @@ Obrigado Oracle e Alura! #challengeonedecodificador2
 ## Resultado do projeto:
 
 [📁 Repositório](https://github.com/AndressaDaCosta/codificador_decodificador_texto) |  [🌎 Página](https://andressadacosta.github.io/codificador_decodificador_texto/)
+
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20Desktop.png?raw=true">
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%201.png?raw=true"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20celular%202.png?raw=true">
+
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20%20tablet%201.png?raw=true"><img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20tablet%202.png?raw=true">
