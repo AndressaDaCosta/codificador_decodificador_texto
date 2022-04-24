@@ -2,7 +2,7 @@
 
 # Codificador e Decodificador de Texto
 
-Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação totalmente responsivo, desenvolvido durante o curso #onenexteducation
+Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação responsivo, desenvolvido durante o curso #onenexteducation
 
 ### Sobre o projeto:
 
