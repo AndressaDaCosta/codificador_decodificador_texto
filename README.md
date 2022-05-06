@@ -1,4 +1,4 @@
-# Alura + Oracle ONE 👩🏻‍💻<br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/andressa-costa-286173225/") [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndressaDaCosta/)](linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+# Alura + Oracle ONE 👩🏻‍💻  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/andressa-costa-286173225/") [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndressaDaCosta/)](linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
 
 # Codificador e Decodificador de Texto
 
@@ -34,9 +34,26 @@ Cursos Alura:
  - Git e Github: controle e compartilhe seu código
  - Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma 
 
+### Aprendi:
+
+-	A sintaxe básica de JavaScript, HTML e CSS;
+-	A desenvolver soluções conforme o meu raciocínio (lógica);
+-	A criar funcões anônimas;
+-	Utilizar arrays;
+-	Manipular elementos do HTML pelo DOM;
+-	Alterar estilo da página com CSS.
+
+
+
+
+
 Além disso, utilizei as ferramentas [Trello](https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one), [Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0%3A1) e Discord. Foi incrível me sentir fazendo parte de um time de desenvolvimento. 👩🏻‍💻
 
-Obrigado Oracle e Alura! #challengeonedecodificador2
+Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
+
+
+
+#challengeonedecodificador2
 
 ## Resultado do projeto:
 
