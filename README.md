@@ -51,9 +51,15 @@ Além disso, utilizei as ferramentas [Trello](https://trello.com/b/EmUFmjCv/deco
 
 Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
 
+ <div style="display:flex;" align="center">
+   <h2>Badge referente ao termino do Challenge</h2>
+ </div>
 
+   <div style="display:flex;" align="center">
+  <img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true" width="400"/>
+</div>
 
-#challengeonedecodificador2
+**#challengeonedecodificador2**
 
 ## Resultado do projeto:
 
